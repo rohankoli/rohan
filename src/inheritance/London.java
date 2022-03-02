@@ -10,10 +10,11 @@ public void m1()
 	System.out.println(c);
 }
 public static void main (String[]args)
+
 {
  London x=new London();
  x.m1();
-
+system.out.println("ekdum mast");
 }
 
 
